@@ -115,6 +115,11 @@ web_modules/
 # eslint
 .eslintrc.json
 
+# Prettier
+.prettierrc.json
+.prettierignore
+
+
 # Next.js build output
 .next
 out
